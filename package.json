@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "webpack ./src/js/index.js"
+    "build": "webpack"
   },
   "devDependencies": {
     "eslint": "^9.24.0",
